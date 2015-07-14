@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Tryagain_Netjes game, Configuration: Debug Win32 ------
+1>  Nugoed.cpp
+1>  Tryagain_Netjes game.vcxproj -> C:\Users\Pikante Dipsausje\Videos\HKU\Zomervakantie___2015\Tryagain_Netjes game\Debug\Tryagain_Netjes game.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

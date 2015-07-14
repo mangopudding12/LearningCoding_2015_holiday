@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: pcrRaad_Number, Configuration: Debug Win32 ------
+1>  PCprobeer.cpp
+1>c:\users\pikante dipsausje\videos\hku\zomervakantie___2015\pcrraad_number\pcrraad_number\pcprobeer.cpp(18): warning C4101: 'numbermax' : unreferenced local variable
+1>c:\users\pikante dipsausje\videos\hku\zomervakantie___2015\pcrraad_number\pcrraad_number\pcprobeer.cpp(17): warning C4101: 'numbermin' : unreferenced local variable
+1>  pcrRaad_Number.vcxproj -> C:\Users\Pikante Dipsausje\Videos\HKU\Zomervakantie___2015\pcrRaad_Number\Debug\pcrRaad_Number.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
